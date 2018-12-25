@@ -23,5 +23,5 @@ tsconfig.json
 
 # test & etc.
 src/
-index.js
+/index.js
 yarn.lock

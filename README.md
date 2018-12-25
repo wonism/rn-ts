@@ -13,5 +13,5 @@ $ rnts i
 $ npm run build:ts
 ```
 
-##⚠️ CAUTION##
-You **MUST** install `@types@/react` and `@types/react-native` to run `build:ts` command.
+##CAUTION##
+⚠️ You **MUST** install `@types@/react` and `@types/react-native` to run `build:ts` command.
