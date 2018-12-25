@@ -5,13 +5,11 @@
 ```sh
 $ npm i -g rn-ts
 $ cd /PATH/TO/YOUR/RN_PROJECT
-$ rnts i
+$ rn-ts i
+# or rn-ts init / rn-ts set / rn-ts start / rn-ts s
 ```
 
 ## How to run?
 ```sh
 $ npm run build:ts
 ```
-
-## ⚠️ CAUTION
-You **MUST** install `@types@/react` and `@types/react-native` to run `build:ts` command.

@@ -16,12 +16,13 @@ Desktop.ini
 node_modules/
 *.log
 *.gz
+yarn.lock
 
 # build
 bin/
-tsconfig.json
+/tsconfig.json
 
 # test & etc.
 src/
+outputs/
 /index.js
-yarn.lock

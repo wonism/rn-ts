@@ -16,6 +16,7 @@ Desktop.ini
 node_modules/
 *.log
 *.gz
+yarn.lock
 
 # VCS
 .git
@@ -24,10 +25,10 @@ node_modules/
 
 # source
 lib/
-tsconfig.json
+/tsconfig.json
 .babelrc
 
 # test & etc.
 src/
+outputs/
 /index.js
-yarn.lock

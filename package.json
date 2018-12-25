@@ -1,6 +1,6 @@
 {
   "name": "rn-ts",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Initialize typescript into your react native project",
   "keywords": [
     "react",
