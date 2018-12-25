@@ -1,0 +1,35 @@
+{
+  "name": "rn-ts-cli",
+  "version": "0.0.0-alpha.0",
+  "description": "Initialize typescript into your react native project",
+  "keywords": [
+    "react",
+    "reactnative",
+    "ts",
+    "tsx",
+    "typescript"
+  ],
+  "main": "n/a",
+  "bin": {
+    "rnts": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dargs": "^6.0.0",
+    "fs-extra": "^7.0.1",
+    "update-notifier": "^2.5.0",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.0",
+    "babel-preset-minify": "^0.5.0"
+  },
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "babel lib --out-dir bin && chmod +x bin/index.js"
+  },
+  "author": "wonism <yocee57@gmail.com>",
+  "license": "MIT"
+}
