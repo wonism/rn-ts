@@ -1,9 +1,9 @@
-# rn-ts-cli
-> ReactNative TypeScript CLI
+# rn-ts
+> Initialize typescript into your react native project
 
 ## How to initialize?
 ```sh
-$ npm i -g rn-ts-cli
+$ npm i -g rn-t-
 $ cd /PATH/TO/YOUR/RN_PROJECT
 $ rnts i
 ```

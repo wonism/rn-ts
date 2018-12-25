@@ -20,3 +20,8 @@ node_modules/
 # build
 bin/
 tsconfig.json
+
+# test & etc.
+src/
+index.js
+yarn.lock

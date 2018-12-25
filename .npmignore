@@ -25,3 +25,9 @@ node_modules/
 # source
 lib/
 tsconfig.json
+.babelrc
+
+# test & etc.
+src/
+index.js
+yarn.lock
