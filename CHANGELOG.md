@@ -12,3 +12,6 @@
 ## 1.1.1 - 2018-12-28
 - Update `package.json`
 - Add configuration for `travis ci`
+
+## 1.1.2 - 2018-12-29
+- Edit `README.md`
